@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HS-Jeong88/twitter/static/css/main.572e39d2.chunk.css",
+    "main.js": "/HS-Jeong88/twitter/static/js/main.e259c44b.chunk.js",
+    "main.js.map": "/HS-Jeong88/twitter/static/js/main.e259c44b.chunk.js.map",
+    "runtime-main.js": "/HS-Jeong88/twitter/static/js/runtime-main.f630a32c.js",
+    "runtime-main.js.map": "/HS-Jeong88/twitter/static/js/runtime-main.f630a32c.js.map",
+    "static/js/2.4389d3fe.chunk.js": "/HS-Jeong88/twitter/static/js/2.4389d3fe.chunk.js",
+    "static/js/2.4389d3fe.chunk.js.map": "/HS-Jeong88/twitter/static/js/2.4389d3fe.chunk.js.map",
+    "index.html": "/HS-Jeong88/twitter/index.html",
+    "static/css/main.572e39d2.chunk.css.map": "/HS-Jeong88/twitter/static/css/main.572e39d2.chunk.css.map",
+    "static/js/2.4389d3fe.chunk.js.LICENSE.txt": "/HS-Jeong88/twitter/static/js/2.4389d3fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f630a32c.js",
+    "static/js/2.4389d3fe.chunk.js",
+    "static/css/main.572e39d2.chunk.css",
+    "static/js/main.e259c44b.chunk.js"
+  ]
+}
